@@ -1,7 +1,6 @@
 package AluraChallenge.CarlosBaldessari.forumhub.controller;
 
 
-import com.rangelmrk.forumhub.domain.topico.*;
 import AluraChallenge.CarlosBaldessari.forumhub.infra.exception.ResourceNotFoundException;
 import AluraChallenge.CarlosBaldessari.forumhub.service.TopicoService;
 import jakarta.validation.Valid;

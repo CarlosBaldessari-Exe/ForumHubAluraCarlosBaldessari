@@ -1,4 +1,4 @@
-package com.rangelmrk.forumhub;
+package AluraChallenge.CarlosBaldessari.forumhub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

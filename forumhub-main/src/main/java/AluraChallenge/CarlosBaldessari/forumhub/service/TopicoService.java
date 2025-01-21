@@ -4,7 +4,6 @@ import AluraChallenge.CarlosBaldessari.forumhub.domain.topico.DadosAtualizacaoTo
 import AluraChallenge.CarlosBaldessari.forumhub.domain.curso.Curso;
 import AluraChallenge.CarlosBaldessari.forumhub.domain.curso.CursoRepository;
 import AluraChallenge.CarlosBaldessari.forumhub.domain.topico.TopicoRepository;
-import com.rangelmrk.forumhub.domain.topico.*;
 import AluraChallenge.CarlosBaldessari.forumhub.domain.usuario.Usuario;
 import AluraChallenge.CarlosBaldessari.forumhub.domain.usuario.UsuarioRepository;
 import AluraChallenge.CarlosBaldessari.forumhub.infra.exception.ResourceNotFoundException;
